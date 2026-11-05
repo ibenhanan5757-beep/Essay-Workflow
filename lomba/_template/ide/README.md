@@ -1,0 +1,1 @@
+# Arena Ide: bekal.md, pasaran.md, jangkar.md (opsional), tambang-literatur.md, peta-subtema.md, peluang.md, loop-1.md, loop-2.md, loop-3.md, kolam.md, paket-final.md, final.md, adu-final.json; JSON mentah juri dan kesan 30 detik di juri/

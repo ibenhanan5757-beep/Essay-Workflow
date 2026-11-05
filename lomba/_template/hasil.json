@@ -1,0 +1,41 @@
+{
+  "lomba": "",
+  "penyelenggara": "",
+  "bidang": "",
+  "jenjang": "",
+  "jenis_esai": "",
+  "tenggat": "",
+  "tanggal_pengumuman": "",
+  "dikirim": null,
+  "tanggal_kirim": "",
+  "mode": "",
+  "versi_workflow": "",
+  "arena": {
+    "rekomendasi": "",
+    "ide_dipilih": "",
+    "sama_dengan_juara_arena": null,
+    "hasil_seri": null,
+    "kartu_liar_di_top4": null,
+    "hibrida_di_top4": null,
+    "jangkar_persentil": null,
+    "jalur_cadangan_dipakai": null
+  },
+  "review": {
+    "putaran": null,
+    "skor_rubrik_resmi_ai_terakhir": null
+  },
+  "hasil": {
+    "status": "belum diumumkan",
+    "peringkat": null,
+    "jumlah_peserta": null,
+    "skor_resmi": null,
+    "komentar_juri": "",
+    "sumber_pengumuman": ""
+  },
+  "uji_balik": {
+    "dijalankan": false,
+    "lawan": "",
+    "juri_ai_pilih_juara_asli": null
+  },
+  "pelajaran": []
+}

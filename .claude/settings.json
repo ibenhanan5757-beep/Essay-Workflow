@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "deny": [
+      "Skill(anthropic-skills:docs)",
+      "Skill(anthropic-skills:google-workspace)",
+      "Skill(anthropic-skills:abstrak-jurnal-ilmiah)",
+      "Skill(anthropic-skills:artikel-jurnal-ilmiah)",
+      "Skill(anthropic-skills:bab1-disertasi-kualitatif)",
+      "Skill(anthropic-skills:bab1-skripsi)",
+      "Skill(anthropic-skills:bab2-disertasi-kualitatif)",
+      "Skill(anthropic-skills:bab2-skripsi)",
+      "Skill(anthropic-skills:bab3-disertasi-kualitatif)",
+      "Skill(anthropic-skills:bab3-skripsi)",
+      "Skill(anthropic-skills:bab4-kualitatif-disertasi)",
+      "Skill(anthropic-skills:bab5-pembahasan-disertasi-kualitatif)",
+      "Skill(anthropic-skills:bab6-disertasi-kualitatif)",
+      "Skill(anthropic-skills:hasil-pembahasan-jurnal)",
+      "Skill(anthropic-skills:kata-pengantar-penelitian)",
+      "Skill(anthropic-skills:makalah-akademik)",
+      "Skill(anthropic-skills:metode-penelitian-jurnal)",
+      "Skill(anthropic-skills:pendahuluan-jurnal-ilmiah)",
+      "Skill(anthropic-skills:simpulan-jurnal-ilmiah)",
+      "Skill(anthropic-skills:skripsi-kualitatif)",
+      "Skill(anthropic-skills:tesis)",
+      "Skill(anthropic-skills:tugas-universal-expert)",
+      "Skill(anthropic-skills:revisi-perbaikan-tulisan)",
+      "Skill(anthropic-skills:parafrase-akademik)",
+      "Skill(anthropic-skills:universal-research-reviewer)",
+      "Skill(anthropic-skills:cari-jurnal-referensi)",
+      "Skill(anthropic-skills:humanizer)",
+      "Skill(anthropic-skills:avoid-ai-writing)",
+      "Skill(anthropic-skills:ai-detection-reducer)",
+      "Skill(anthropic-skills:anti-ai-writer)",
+      "Skill(anthropic-skills:remove-ai-marks)",
+      "Skill(anthropic-skills:ppt-sidang-skripsi)",
+      "Skill(anthropic-skills:ppt-master-examples)",
+      "Skill(dataviz)"
+    ],
+    "ask": [
+      "Skill(anthropic-skills:*)"
+    ]
+  }
+}

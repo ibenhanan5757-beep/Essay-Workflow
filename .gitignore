@@ -1,0 +1,49 @@
+# File yang tidak ikut diupload ke GitHub.
+# Baris yang diawali "!" artinya pengecualian: tetap ikut diupload.
+
+# File lama, sudah tidak dipakai workflow (ada juga backup lengkap di luar folder ini)
+arsip/
+
+# Paket skill desain: isinya sama dengan folder skills/, dan ukurannya ~10 MB
+skill-desain.zip
+
+# Guidebook dan PDF lain milik panitia, juga hasil ekspor PDF
+*.pdf
+
+# Folder lomba berisi draf, ide, dan data pribadi.
+# Yang ikut hanya kerangka kosong dan contoh hasil tahap 0.
+lomba/*
+!lomba/_template/
+!lomba/contoh-pharfest-2026/
+
+# Hasil kerja dan file kunci Office
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Pengaturan pribadi dan kunci API
+.env
+.claude/settings.local.json
+
+# File sistem
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Repo lama yang kosong (punya .git sendiri)
+essay/
+# Worktree sesi Claude
+.claude/worktrees/
+
+# Rekap bookmark Instagram: poster milik panitia dan data pribadi (repo public)
+lomba-ig/data/
+lomba-ig/hasil/
+lomba-ig/poster/
+
+# Tautan Antigravity ke skills/ (isinya sama, dibuat ulang lewat PINDAH-KE-ANTIGRAVITY.md)
+.agent/

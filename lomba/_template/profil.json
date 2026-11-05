@@ -1,0 +1,21 @@
+{
+  "_sumber": "Isi dari guidebook di tahap 0 (sebut halaman). Nilai null = tidak diatur lomba.",
+  "kertas": "A4",
+  "font": "Times New Roman",
+  "ukuran_font": 12,
+  "spasi": 1.5,
+  "margin_cm": {"kiri": 4, "kanan": 3, "atas": 3, "bawah": 3},
+  "rata": "justify",
+  "indent_paragraf_cm": 1.0,
+  "judul": {"ukuran": 14, "tebal": true, "rata": "center"},
+  "subjudul": {"ukuran": 12, "tebal": true, "rata": "left"},
+  "nomor_halaman": "kanan_bawah",
+  "gambar_hanya_di_lampiran": false,
+  "kata_min": null,
+  "kata_maks": null,
+  "judul_bagian_pustaka": ["daftar pustaka", "referensi"],
+  "judul_bagian_lampiran": ["lampiran"],
+  "lebar_gambar_cm": 14,
+  "tinggi_gambar_maks_cm": 10,
+  "warna_aksen": "#1f5a8a"
+}
