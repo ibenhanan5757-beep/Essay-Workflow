@@ -5,7 +5,7 @@ description: Rekap info lomba dari Instagram akun sendiri (bookmark/Saved atau f
 
 # Workflow: Bookmark Lomba Instagram ke Spreadsheet
 
-Workflow ini disusun dari uji coba pertama (5 Nov 2026) pada 30 bookmark akun <akun>.
+Workflow ini disusun dari uji coba pertama (5 Nov 2026) pada 30 bookmark akun Instagram kedua penulis.
 Hasilnya 34 lomba. Semua langkah, jebakan, dan solusi yang ditemukan saat itu ditulis di sini supaya
 proses berikutnya lebih cepat dan lebih lengkap.
 
